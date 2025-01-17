@@ -16,16 +16,17 @@ This repository contains a script to install Odoo quickly and easily. By executi
 ### 1. Clone the Repository  
 Clone this repository to your server:
 ```bash
-git clone <repo-url>
-cd <repo-folder>
-
+git clone https://github.com/yousseftarhri/install-odoo.git
+cd install-odoo
+```
 ### 2. Make the script executable
 ```bash
 chmod +x install_odoo.sh
-
+```
 ### 3. Run the script
 ```bash
 ./install_odoo.sh
+```
 ---
 ## Related Article
 If you're interested in deploying Odoo on Azure Cloud, check out my Medium article:
