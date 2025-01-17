@@ -27,6 +27,11 @@ chmod +x install_odoo.sh
 ```bash
 ./install_odoo.sh
 ```
+### 4. Change the Odoo Version (Optional)
+To install a different Odoo version, open the script file (install_odoo.sh) in a text editor and update the following line:
+```bash
+ODOO_VERSION="17.0"
+```
 ---
 ## Related Article
 If you're interested in deploying Odoo on Azure Cloud, check out my Medium article:
