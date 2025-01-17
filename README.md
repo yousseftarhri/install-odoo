@@ -1,5 +1,3 @@
-# install-odoo
-
 # Odoo Installation Script
 
 This repository contains a script to install Odoo quickly and easily. By executing a single script, you can set up Odoo along with PostgreSQL on your server.
